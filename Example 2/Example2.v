@@ -6,7 +6,7 @@ module Example2(Q, D, clk, clear);
 output Q;
 input D, clk, clear;       
 reg Q;
-always@(negedge clk or posedge clear)   // Change on negative edge always 
+always@(negedge clk or posedge clear)   
 
 begin
 if(clear)
