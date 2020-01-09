@@ -58,10 +58,11 @@ Community Size is approx. 25 Students. Yes, the size remains the same.
 ## What are your community's shared struggles?
 
 - What are the problems that is or will bring your community members together? They can be anything, but are commonly focussed around working towards better skills, grades or jobs.
-## PROBLEMS / REASONS 
+-
 - INTERNSHIP is the major issue that makes students to work on open source and make it capable to achieve that goal.
-- CODING EXPERIENCE levels maximization or improvements.
-- SKILLS improved like Soft Skills and communication MAKES COMMUNITY MEMBERS TOGETHER.
+- CODING EXPERIENCE levels maximization or improvement.
+- SKILLS improved like Soft Skills and communication.
+## THIS MAKES COMMUNITY MEMBERS TOGETHER.
 
 ## What is the mission of your community?
  - Based on your community's shared struggled, what is your community's mission? Keep this short and snappy.
@@ -81,7 +82,6 @@ Community Size is approx. 25 Students. Yes, the size remains the same.
 ### Activities
 
 - What activities could you run for your community?
-
 - **Main Needs**: 
   - Need: Students need to learn about CS
     - Possible Solution: Host workshops and teaching sessions to allow people to hone their skills in a safe, welcoming environment
