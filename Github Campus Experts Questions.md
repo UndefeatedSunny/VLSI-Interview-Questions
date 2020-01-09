@@ -60,8 +60,8 @@ Community Size is approx. 25 Students. Yes, the size remains the same.
 - What are the problems that is or will bring your community members together? They can be anything, but are commonly focussed around working towards better skills, grades or jobs.
 
 - INTERNSHIP is the major issue that makes students to work on open source and make it capable to achieve that goal.
-- CODING EXPERIENCE levels maximization or improvement.
-- SKILLS improved like Soft Skills and communication.
+- Effecting Group events makes CODING EXPERIENCE levels maximization or improvement.
+- SKILLS improved like Soft Skills and communication , as it is also the major part of any community.
 ## THIS MAKES COMMUNITY MEMBERS TOGETHER.
 
 ## What is the mission of your community?
@@ -90,14 +90,25 @@ Community Size is approx. 25 Students. Yes, the size remains the same.
   - Need: Non-traditional CS students need to know they aren't alone
     - Possible Solution: Host regular meet ups specifically for these students
 - Are they events or projects? They can be both.
+It includes both events or projects.
 
 - How will these further your mission?
+- **"Each One, Teach One"** is my main aim or mission that makes futher my mission accomplish.
 
 ### Communication
 
 - How will you get in touch with your community?
+- **Facebook group** for the program to help students share their feedbacks and doubts.
+- **GitHub organization** for the program to add and discuss issues related to the events, workshops.
+- **Facebook** for personal communication.
+- **Workshops**: Post workshop student interaction.
+- **College Mailing list** for shooting event email to all students at once.
+
 - How will they keep in touch with each other?
+- **WHATSAPP group & SLACK** for the program to help students share their feedbacks and doubts.
+
 - What online or in-person platforms will you use, and why?
+- **WHATSAPP** because in India ever person is familiar of that application that makes communication better and accurate then we move to **GLITTER** after all the person fond of open source.
 
 ## Future-proofing your community
 
