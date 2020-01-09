@@ -36,10 +36,24 @@ I want to build a community not so much for other students around my age (colleg
 How would you define your community? Try to be open minded, but here are some examples of ways you could define your community:
 
 - Is it a computer science club or special interest group?
+
+It's a combination of both computer science and Special interest group like Hobby groups will help us to create a diverse community with specific groups for trending technologies. This will also increase community interaction and knowledge transfer among students.
+
 - Is it a formally recognized community such as a student society, or is it an informal community such as a friendship group?
+
+It a formally recognized community such as a student society but include friendship zones as it is the major part of any successful community.
+
 - Does your community share interests or an environment?
+
+YES, My community share interests depends whether it related to coding or any new technology that provide benefits to whole community.
+
 - How long has your community existed?
+
+It's the starting (approx. 6 months) as there is no other group in our college that work on Git that i mentioned above in my discription.
+
 - How big is your community? Has it always been this size?
+
+Community Size is approx. 25 Students. Yes, the size remains the same.
 
 ## What are your community's shared struggles?
 
