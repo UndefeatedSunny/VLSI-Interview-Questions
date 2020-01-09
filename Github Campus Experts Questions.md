@@ -101,7 +101,8 @@ Community Size is approx. 25 Students. Yes, the size remains the same.
 It includes both events or projects.
 
 - How will these further your mission?
-- **"Each One, Teach One"** is my main aim or mission that makes futher my mission accomplish.
+
+ **"Each One, Teach One"** is my main aim or mission that makes futher my mission accomplish.
 
 ### Communication
 
