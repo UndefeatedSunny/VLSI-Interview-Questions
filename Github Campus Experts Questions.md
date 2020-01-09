@@ -97,6 +97,7 @@ Community Size is approx. 25 Students. Yes, the size remains the same.
   - Need: Non-traditional CS students need to know they aren't alone
     - Possible Solution: Host regular meet ups specifically for these students
 - Are they events or projects? They can be both.
+
 It includes both events or projects.
 
 - How will these further your mission?
