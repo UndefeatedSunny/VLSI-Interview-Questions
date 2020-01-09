@@ -59,21 +59,28 @@ Community Size is approx. 25 Students. Yes, the size remains the same.
 
 - What are the problems that is or will bring your community members together? They can be anything, but are commonly focussed around working towards better skills, grades or jobs.
 
-- INTERNSHIP is the major issue that makes students to work on open source and make it capable to achieve that goal.
-- Effecting Group events makes CODING EXPERIENCE levels maximization or improvement.
-- SKILLS improved like Soft Skills and communication , as it is also the major part of any community.
+ INTERNSHIP is the major issue that makes students to work on open source and make it capable to achieve that goal.
+ 
+ Effecting Group events makes CODING EXPERIENCE levels maximization or improvement.
+ 
+ SKILLS improved like Soft Skills and communication , as it is also the major part of any community.
+ 
 ## THIS MAKES COMMUNITY MEMBERS TOGETHER.
 
 ## What is the mission of your community?
  - Based on your community's shared struggled, what is your community's mission? Keep this short and snappy.
  
  Our aim is the equip everyone, regardless of their major, with technical skills to increase their job prospects.
-- **Diverse Culture** with the help of Hobby Groups.
-- **Increase in Interest & participation of women** via Girls Hackathon.
-- **Increase in open source development** via workshops on open source tools and technologies.
-- **Engagement with trending technologies & Improvement in public speaking skills** via 15-20 min. tech-talks.
-- **Community projects** to help build cohesive and sharing community.
-
+ 
+ **Diverse Culture** with the help of Hobby Groups.
+ 
+ **Increase in Interest & participation of women** via Girls Hackathon.
+ 
+ **Increase in open source development** via workshops on open source tools and technologies.
+ 
+ **Engagement with trending technologies & Improvement in public speaking skills** via 15-20 min. tech-talks.
+ 
+ **Community projects** to help build cohesive and sharing community.
  
 - Note: this is not your personal mission, but the overarching mission of your community. An example of a mission might be `'Our aim is the equip everyone, regardless of their major, with technical skills to increase their job prospects.'`
 
@@ -82,7 +89,7 @@ Community Size is approx. 25 Students. Yes, the size remains the same.
 ### Activities
 
 - What activities could you run for your community?
-- **Main Needs**: 
+  **Main Needs**: 
   - Need: Students need to learn about CS
     - Possible Solution: Host workshops and teaching sessions to allow people to hone their skills in a safe, welcoming environment
   - Need: Students need a way to break into the greater tech community
@@ -98,17 +105,23 @@ It includes both events or projects.
 ### Communication
 
 - How will you get in touch with your community?
-- **Facebook group** for the program to help students share their feedbacks and doubts.
-- **GitHub organization** for the program to add and discuss issues related to the events, workshops.
-- **Facebook** for personal communication.
-- **Workshops**: Post workshop student interaction.
-- **College Mailing list** for shooting event email to all students at once.
+ **Facebook group** for the program to help students share their feedbacks and doubts.
+ 
+ **GitHub organization** for the program to add and discuss issues related to the events, workshops.
+ 
+ **Facebook** for personal communication.
+ 
+ **Workshops**: Post workshop student interaction.
+ 
+ **College Mailing list** for shooting event email to all students at once.
 
 - How will they keep in touch with each other?
-- **WHATSAPP group & SLACK** for the program to help students share their feedbacks and doubts.
+
+ **WHATSAPP group & SLACK** for the program to help students share their feedbacks and doubts.
 
 - What online or in-person platforms will you use, and why?
-- **WHATSAPP** because in India ever person is familiar of that application that makes communication better and accurate then we move to **GLITTER** after all the person fond of open source.
+
+ **WHATSAPP** because in India ever person is familiar of that application that makes communication better and accurate then we move to  **GLITTER** after all the person fond of open source.
 
 ## Future-proofing your community
 
