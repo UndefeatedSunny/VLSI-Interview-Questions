@@ -13,13 +13,13 @@ For each header in this document, give as much detail as possible about your com
 Before we begin - tell us a bit about yourself.
 
 - What's your name?
-  My name is Sunny Chaudhary.
+My name is Sunny Chaudhary.
 - Where and what do you study?
-  I study Electronics and Communication Engineering at KIET Group of Institutions, Ghaziabad.
+I study Electronics and Communication Engineering at KIET Group of Institutions, Ghaziabad.
 - What are your hobbies?
-  My hobbies include studying Novels, Coding, Gaming and Racing.
+My hobbies include studying Novels, Coding, Gaming and Racing.
 - What's your story? Why are you interested in building communities?
-  My story is one of LOST OPPORTUNITIES. 
+My story is one of LOST OPPORTUNITIES. 
 I Studied from the school where no one aware of Coding and their future scope.
 The community that I grew up in only ever attained certain educations. 
 For example, I wanted to learn how to code in middle school/junior high through high school, but we never had those opportunities available to us that we could use as our motivation to learn new skills. 
@@ -75,13 +75,4 @@ Every community changes, and it won't always be yours. In this section you'll st
 - How will leadership successors be chosen?
 - How will you handover to new community leaders?
 
-# Submitting the exercise
-
-- Navigate to the repository and create a new branch named `submission`.
-- Navigate to the `submissions` directory.
-- In the directory, create a new directory named `module-1`.
-- Inside `module-1`, create a file named `community-assessment.md`.
-- Fill the file with the contents of your completed exercise.
-- Commit the changes.
-- [Create a new Pull Request](https://help.github.com/articles/creating-a-pull-request/) from your `submission` branch to `master`. Be sure to read and fill out the Pull Request template! 
 
