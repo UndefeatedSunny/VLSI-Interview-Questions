@@ -13,12 +13,18 @@ For each header in this document, give as much detail as possible about your com
 Before we begin - tell us a bit about yourself.
 
 - What's your name?
+
 My name is Sunny Chaudhary.
+
 - Where and what do you study?
+
 I study Electronics and Communication Engineering at KIET Group of Institutions, Ghaziabad.
+
 - What are your hobbies?
+
 My hobbies include studying Novels, Coding, Gaming and Racing.
 - What's your story? Why are you interested in building communities?
+
 My story is one of LOST OPPORTUNITIES. 
 I Studied from the school where no one aware of Coding and their future scope.
 The community that I grew up in only ever attained certain educations. 
