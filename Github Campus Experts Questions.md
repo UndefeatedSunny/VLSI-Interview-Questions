@@ -143,9 +143,13 @@ Every community changes, and it won't always be yours. In this section you'll st
 - What tasks and roles could you give to other people in your community?
 
 Depends upon what other community memberS capable of (DEPENDS ON SKILL & INTEREST.
+
 **CODING**
+
 **SPEAKING**
+
 **MOTIVATIONAL**
+
 **PASSIONATE TOWARDS OPEN-SOURCE**
 
 ### Mission
