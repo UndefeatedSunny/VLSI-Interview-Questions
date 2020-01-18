@@ -1,7 +1,8 @@
 
 `timescale 1ns / 1ps
  
-// Design Name: EXAMPLE (14) --->>   Write Verilog code for a 4-bit unsigned up counter with a synchronous load with a constant.
+// Design Name: EXAMPLE (14) --->>   Write Verilog code for a 4-bit unsigned up counter with a synchronous load with a constant.   
+
 
 module Example14(counter, clk, load);
 
