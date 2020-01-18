@@ -1,7 +1,8 @@
 
 `timescale 1ns / 1ps
  
-// Design Name: EXAMPLE (15) --->>   Write Verilog code for a 4-bit unsigned up counter with an asynchronous clear and clock enable.
+// Design Name: EXAMPLE (15) --->>   Write Verilog code for a 4-bit unsigned up counter with an asynchronous clear and clock enable.   
+
 
 module Example15(counter, clk, clear, enable);
 
