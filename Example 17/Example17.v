@@ -1,7 +1,8 @@
 
 `timescale 1ns / 1ps
  
-// Design Name: EXAMPLE (17) --->>   Write Verilog code for a 4-bit signed up counter with an asynchronous reset.
+// Design Name: EXAMPLE (17) --->>   Write Verilog code for a 4-bit signed up counter with an asynchronous reset.   
+
 
 module Example17(counter, clk, reset);
 
