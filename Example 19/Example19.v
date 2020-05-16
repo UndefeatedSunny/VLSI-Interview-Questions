@@ -7,19 +7,21 @@ Difference between counter and accumulator
 Counter = count +1
 Accumulator = count (+or-) any variable or constant.
 */
-module Example19(counter, sunny, clk, clear);
+module Example19(counter, accumulator, clk, clear);
 
 output [3:0]counter;
-input [3:0]sunny;
+input [3:0]accumulator;
 input clk, clear;
 reg [3:0]counter_reg;
 
-always @(posedge clk or posedge clear)
+always @(posedge clk or posedge clear)    // Sensitivity list
 begin
+
 if(clear)
 counter_reg <= 4'b0000;
 else 
-counter_reg <= counter_reg + sunny;
+counter_reg <= counter_reg + accumulator;
+
 end
                                      
 assign counter = counter_reg;
